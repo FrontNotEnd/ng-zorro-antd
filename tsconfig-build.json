@@ -6,14 +6,12 @@
     "declaration": true,
     "importHelpers": true,
     "module": "es2015",
-    "sourceMap": false,
+    "sourceMap": true,
     "target": "es2015",
-    "types": [
-      "node"
-    ]
+    "types": []
   },
   "files": [
-    "./src/__gen_components/ng-zorro-antd.module.ts"
+    "./__gen_components/ng-zorro-antd.module.ts"
   ],
   "angularCompilerOptions": {
     "annotateForClosureCompiler": true,
